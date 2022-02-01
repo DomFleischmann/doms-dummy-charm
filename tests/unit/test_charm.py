@@ -30,7 +30,6 @@ class TestCharm(unittest.TestCase):
                     "summary": "httpbin",
                     "command": "gunicorn -b 0.0.0.0:80 httpbin:app -k gevent",
                     "startup": "enabled",
-                    "environment": {"thing": "🎁"},
                 }
             },
         }
