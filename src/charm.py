@@ -61,5 +61,6 @@ class OperatorTemplateCharm(CharmBase):
         # https://juju.is/docs/sdk/constructs#heading--statuses
         self.unit.status = ActiveStatus()
 
+
 if __name__ == "__main__":
     main(OperatorTemplateCharm)
