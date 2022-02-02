@@ -63,4 +63,4 @@ class DomsDummyCharm(CharmBase):
 
 
 if __name__ == "__main__":
-    main(OperatorTemplateCharm)
+    main(DomsDummyCharm)
