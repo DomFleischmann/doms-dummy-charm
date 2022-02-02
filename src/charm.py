@@ -23,7 +23,7 @@ logger = logging.getLogger(__name__)
 
 
 class DomsDummyCharm(CharmBase):
-    """Charm the service."""
+    """My dummy charm."""
 
     _stored = StoredState()
 
