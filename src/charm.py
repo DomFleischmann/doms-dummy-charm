@@ -22,7 +22,7 @@ from ops.model import ActiveStatus
 logger = logging.getLogger(__name__)
 
 
-class OperatorTemplateCharm(CharmBase):
+class DomsDummyCharm(CharmBase):
     """Charm the service."""
 
     _stored = StoredState()
