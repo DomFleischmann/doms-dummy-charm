@@ -4,7 +4,7 @@
 #
 # Learn more at: https://juju.is/docs/sdk
 
-"""Charm the service.
+"""Doms dummy charm
 
 Refer to the following post for a quick-start guide that will help you
 develop a new k8s charm using the Operator Framework:
